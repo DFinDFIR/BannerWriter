@@ -1,5 +1,7 @@
 # BannerWriter.ps1
-This powershell script can be used to add a banner (from a text file) to any existing or new powershell script, there is a few example banners in the package.
+This powershell script can be used to add a banner (from a text file) to any existing or new powershell script.
+
+There is a few example banners included in the package.
 
 By using a text file for the Banner, we dont need to worry about escaping special characters or extra work like that.
 
